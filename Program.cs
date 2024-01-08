@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main_(string[] args)
     {
         string man = "아저씨";
         Console.WriteLine("Hello, World!");
