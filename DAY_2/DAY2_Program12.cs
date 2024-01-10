@@ -1,7 +1,7 @@
-namespace c_SHARP_PROJECT;
+namespace C_SHARP_PROJECT;
 public class DAY2_PROGRAM12
 {
-static void Main(String []args)
+static void Main_(String []args)
     {
         int[] reading = new int[] {4, 6, 11, 55, 34, 9, 12, 2, 1, 32};
         Console.WriteLine("차원={0}, 길이={1}", reading.Rank, reading.Length);

@@ -1,4 +1,4 @@
-namespace c_SHARP_PROJECT;
+namespace C_SHARP_PROJECT;
 public class DAY2_PROGRAM10
 {
 static void Main_(String []args)
