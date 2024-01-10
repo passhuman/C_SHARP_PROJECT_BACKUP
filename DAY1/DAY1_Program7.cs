@@ -2,7 +2,7 @@ namespace Hello_world;
 
 public class DAY1_Program7
 {
-    static void Main(string[] args){
+    static void Main_(string[] args){
     var a = "바나나";
     var b = "딸기";
     var c = "이름";
