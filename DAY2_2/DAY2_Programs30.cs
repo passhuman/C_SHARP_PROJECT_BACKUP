@@ -1,7 +1,7 @@
 namespace C_SHARP_PROJECT;
 public class DAY2_PROGRAM30
 {
-    static void Main(string[] args)
+    static void Main_(string[] args)
     {
         int cnt = 3;
         int avg = 0;
