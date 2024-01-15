@@ -1,7 +1,7 @@
 namespace C_SHARP_PROJECT;
-public class DAY3_PROGRAM1
+public class DAY3_PROGRAM_END
 {
-    static void Main(string []args)
+    static void Main_(string []args)
     {
         program_start();
     }
