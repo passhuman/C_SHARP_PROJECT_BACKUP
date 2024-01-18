@@ -1,7 +1,7 @@
 namespace C_SHARP_PROJECT;
 public class DAY3_PROGRAM5
 {
-static void Main(String []args)
+static void Main_(String []args)
     {
         student_inout st = new();
         st.get();
