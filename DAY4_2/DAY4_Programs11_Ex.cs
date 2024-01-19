@@ -1,3 +1,4 @@
+/*
 namespace C_SHARP_PROJECT;
 class DAY4_PROGRAM11 : Meta_Human{
 protected override void F2() { Console.WriteLine("재정의 된 아들 재산2"); }
@@ -26,3 +27,4 @@ protected override void F2() { Console.WriteLine("재정의 된 아들 재산2")
 }
 }
 }
+*/
